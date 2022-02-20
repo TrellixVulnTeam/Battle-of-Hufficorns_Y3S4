@@ -1,0 +1,3 @@
+node_modules
+packages/contracts/build
+packages/circuits/build

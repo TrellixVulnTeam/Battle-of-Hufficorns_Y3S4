@@ -1,0 +1,35 @@
+{
+  "name": "contracts",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "riyas73 <riyasingh7399@gmail.com>",
+  "license": "ISC",
+  "main": "build/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "ganache": "./scripts/runGanache.sh",
+    "compileABIs": "node build/compileAndDeploy.js -s ~/solc-0.5.11 -o ./abi -i ./sol/ --abi-only",
+    "compileAndDeploy": "node build/compileAndDeploy.js -s ~/solc-0.5.11 -o ./abi -i ./sol/",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "argparse": "^2.0.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "circomlib": "https://github.com/kobigurk/circomlib.git#347822604996bf25f659f96ee0f02810a1f71bb0",
+    "ethers": "^5.5.4",
+    "fs": "0.0.1-security",
+    "ganache-cli": "^6.9.1",
+    "path": "^0.12.7",
+    "shelljs": "0.8.3",
+    "uninstall": "0.0.0"
+  }
+}

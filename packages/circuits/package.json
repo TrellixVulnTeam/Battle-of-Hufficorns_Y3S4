@@ -1,0 +1,26 @@
+{
+  "name": "circuits",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "riyas73 <riyasingh7399@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/circuits.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "snarkjs": "https://github.com/weijiekoh/snarkjs.git#ef8bbbbe5a7d37f59cdb45d3fdf2c1dcf7dd9c7a",
+    "websnark": "^0.0.5",
+    "circom": "0.0.34",
+    "circom_runtime": "^0.1.17",
+    "circomlib": "https://github.com/kobigurk/circomlib.git#347822604996bf25f659f96ee0f02810a1f71bb0"
+  }
+}
