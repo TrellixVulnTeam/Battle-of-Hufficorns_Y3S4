@@ -18,7 +18,7 @@ Run ```ganache-cli``` in a terminal. Use truffle to compile and deploy the contr
 
 ```
 cd packages/contracts
-truffle compile && truffle migrate --network development
+truffle compile && truffle migrate --network testnetHar
 ```
 
 ```

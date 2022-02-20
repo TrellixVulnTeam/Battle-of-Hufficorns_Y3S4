@@ -47,6 +47,20 @@ module.exports = {
      port: 8545,            // Standard Ethereum port (default: none)
      network_id: "*",       // Any network (default: none)
     },
+    testnetHar: {
+      provider: () => {
+        if (!privateKeyTest.trim()) {
+          throw new Error(
+            'Please enter a private key with funds, you can use the default one'
+          );
+        }
+        return new HDWalletProvider({
+          privateKeys: [privateKeyTest],
+          providerOrUrl: 'https://api.s0.b.hmny.io',
+        });
+      },
+      network_id: 1666700000,
+    },
     // Another network with more advanced options...
     // advanced: {
     // port: 8777,             // Custom port
