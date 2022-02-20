@@ -2,7 +2,7 @@
 
 ![alt text](https://gateway.pinata.cloud/ipfs/QmUyJug219uqv9YSrNkksGUbkoXpkRjXUpobnLPj8izjca)
 
-Battle of Hufficorn is an NFT Card game based on characters with superpowers. The cards are minted as NFTs with characters that have randomly generated attributes. User can create a game and bet on any one attribute of their character. Any player interested in betting on the same attribute can join the game. The specific attributes of the NFTs are kept secret using ZK-snarks so only the owner knows them and the round goes to the player(s) with the best card!
+Battle of Hufficorn is an NFT Card game on Harmony based on characters with superpowers. The cards are minted as NFTs with characters that have randomly generated attributes. User can create a game and bet on any one attribute of their character. Any player interested in betting on the same attribute can join the game. The specific attributes of the NFTs are kept secret using ZK-snarks so only the owner knows them and the round goes to the player(s) with the best card!
 
 Try the game out and let us know what you think!
 
