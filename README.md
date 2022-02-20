@@ -2,7 +2,9 @@
 
 ![alt text](https://gateway.pinata.cloud/ipfs/QmUyJug219uqv9YSrNkksGUbkoXpkRjXUpobnLPj8izjca)
 
-Battle of Hufficorn is a Card game based on Characters and their attributes. The Cards are minted as NFT’s with characters that are generated at random with specific attributes associated with each character. Only the user can see the attributes of their character. User can then, create a game and bet on any one attribute of their character. Any player interested in betting on the same attribute can join the game. The round is over when the creator decides, and the player with highest value of the attribute wins the game.
+Battle of Hufficorn is an NFT Card game based on characters with superpowers. The cards are minted as NFTs with characters that have randomly generated attributes. User can create a game and bet on any one attribute of their character. Any player interested in betting on the same attribute can join the game. The specific attributes of the NFTs are kept secret using ZK-snarks so only the owner knows them and the round goes to the player(s) with the best card!
+
+Try the game out and let us know what you think!
 
 ## Getting Started
 
