@@ -1,10 +1,10 @@
-#Battle Of Hufficorns!
+# Battle Of Hufficorns!
 
 ![alt text](https://gateway.pinata.cloud/ipfs/QmUyJug219uqv9YSrNkksGUbkoXpkRjXUpobnLPj8izjca)
 
 Battle of Hufficorn is a Card game based on Characters and their attributes. The Cards are minted as NFT’s with characters that are generated at random with specific attributes associated with each character. Only the user can see the attributes of their character. User can then, create a game and bet on any one attribute of their character. Any player interested in betting on the same attribute can join the game. The round is over when the creator decides, and the player with highest value of the attribute wins the game.
 
-##Getting Started
+## Getting Started
 
 Clone this repo. ```npm install``` everywhere.
 
