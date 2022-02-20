@@ -28,6 +28,6 @@ cd frontend
 npm run start
 ```
 
-Finally, connect your Metamask wallet to Localhost 8545 network and try out the app!
+Finally, connect your browser wallet to Harmony testnet and try out the app!
 
 You can check out our slide deck [here](https://docs.google.com/presentation/d/1eplkxSCV5jMHYFKnaNfVxd1ZfanmmyLxJ0uz9NGM7Bs/edit?usp=sharing).
